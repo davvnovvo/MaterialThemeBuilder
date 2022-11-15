@@ -9,5 +9,5 @@
 ##Cambio duración bottom_sheet_slide_in.xml android:duration="250" to android:duration="200"
 (https://github.com/davvnovvo/MaterialThemeBuilder/blob/master/app/src/main/res/anim/bottom_sheet_slide_in.xml)
 
-##Cambio <string name="text_body_2">Body 2</string> to <string name="text_body_2">Cuerpo 2</string>
+##Cambio Body 2 to Cuerpo 2
 (https://github.com/davvnovvo/MaterialThemeBuilder/blob/master/app/src/main/res/values/strings.xml)
